@@ -1,2 +1,2 @@
-# DIO-desafio
-desafio de código modulo 1
+# DIO-desafio-Git/GitHub
+repositório criado para o desafio de projeto
